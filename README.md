@@ -45,7 +45,7 @@ Glossaire des termes PAC, questions frequentes, contacts utiles (DDT, chambre d'
 ### Installation
 
 ```bash
-git clone https://github.com/VOTRE_USERNAME/pac-agriculteurs.git
+git clone https://github.com/fclegoff/pac-agriculteurs.git
 cd pac-agriculteurs
 npm install
 ```

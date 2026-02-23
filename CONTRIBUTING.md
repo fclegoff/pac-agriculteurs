@@ -29,7 +29,7 @@ Votre retour est le plus precieux. Vous pouvez :
 ### Lancer le projet en local
 
 ```bash
-git clone https://github.com/VOTRE_USERNAME/pac-agriculteurs.git
+git clone https://github.com/fclegoff/pac-agriculteurs.git
 cd pac-agriculteurs
 npm install
 ```
